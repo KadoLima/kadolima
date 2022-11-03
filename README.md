@@ -18,4 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadolima&layout=compact)](https://github.com/kadolima/github-readme-stats)
 
-"It's a constant quest to try to be better today than you were yesterday and better tomorrow than you were the day before." - Kobe Bryant.
+"It's a constant quest to try to be better today than you were yesterday and better tomorrow than you were the day before." - Kobe Bryant
