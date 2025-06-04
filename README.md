@@ -14,8 +14,4 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-![KadoLima's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadolima&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadolima&layout=compact)](https://github.com/kadolima/github-readme-stats)
-
 "It's a constant quest to try to be better today than you were yesterday and better tomorrow than you were the day before." - Kobe Bryant
